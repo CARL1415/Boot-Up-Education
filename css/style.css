@@ -33,3 +33,7 @@ body{
 .collapse navbar-collapse{
     float: right;
 }
+
+.container{
+    color: antiquewhite;
+}
