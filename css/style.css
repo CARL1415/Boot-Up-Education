@@ -1,0 +1,34 @@
+body{
+    background-repeat: repeat;
+    
+    
+}
+
+.menu{
+    background-color: aliceblue;
+}
+
+.Boot{
+    object-fit: cover;
+    width:7%;
+    height:7%;
+}
+
+.titulo{
+    text-align: center;
+    color: antiquewhite;
+}
+
+.parrafo{
+    text-align: center;
+    color: antiquewhite;
+    font-size: medium;
+}
+
+.formulario{
+    color: aliceblue;
+}
+
+.collapse navbar-collapse{
+    float: right;
+}
